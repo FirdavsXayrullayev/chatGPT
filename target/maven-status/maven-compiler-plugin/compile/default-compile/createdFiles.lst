@@ -1,0 +1,9 @@
+ChatGPT\chat\config\OpenAIConfig.class
+ChatGPT\chat\dto\Message.class
+ChatGPT\chat\ChatApplication.class
+ChatGPT\chat\dto\ChatGptRequest.class
+ChatGPT\chat\dto\ChatGptResponse.class
+ChatGPT\chat\telebot\TelegramBotConfig.class
+ChatGPT\chat\dto\Choice.class
+ChatGPT\chat\telebot\TelegramBot.class
+ChatGPT\chat\controller\ChatController.class
